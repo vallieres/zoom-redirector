@@ -8,7 +8,7 @@
 
 ### What's it for
 
-When joining a Zoom meeting, the "join from your browser" link is intentionally hidden. This browser extension solves this problem by transparently redirecting any meeting links to use Zoom's browser based web client.
+When joining a Zoom meeting, the "join from your browser" link is intentionally hidden. This browser extension solves this problem by transparently redirecting any meeting links to use Zoom's browser-based web client.
 
 ### Installation
 
